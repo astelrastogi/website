@@ -7,7 +7,9 @@
 @media (max-width: 576px) {
 
 }
-
+html {
+  scroll-behavior: smooth;
+}
 *{
     margin:0; padding: 0;
     font-family: 'Jost', sans-serif;
